@@ -1,0 +1,1 @@
+FLASK_APP=BellyButtonApp/app.py flask run
